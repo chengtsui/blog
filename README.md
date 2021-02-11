@@ -8,7 +8,7 @@ See lssues
 
 关于Me
 
-如文档存在误区，欢迎各位看官、小伙伴，及时指正误区，可在lssues或以邮件形式通知我。感谢大家！！
+如存在误区，欢迎各位看官、小伙伴，及时指正误区，可在lssues或以邮件形式通知我。感谢大家！！
 
 Emain :  chengtsui0631@protonmail.com
 Wechat : Tsui0631
