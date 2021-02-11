@@ -8,7 +8,7 @@ See lssues
 
 关于我
 
-前端爱好者，为了记录学习，如各位看官、小伙伴发现文档内容有理解有误的地方，请及时lssues指出或发送邮件通知我。谢谢大家！！
+各位看官、同僚、小伙伴，如发现文档内容存在误区，请及时lssues或邮件形式通知我。感谢大家！！
 
 Emain :  chengtsui0631@protonmail.com
 Wechat : Tsui0631
