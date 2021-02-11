@@ -6,7 +6,7 @@ See lssues
 - [Vue 响应式部分](https://github.com/chengtsui/blog/issues/3)
 
 
-关于我
+关于Me
 
 如文档存在误区，欢迎各位看官、小伙伴，及时指正误区，可在lssues或以邮件形式通知我。感谢大家！！
 
