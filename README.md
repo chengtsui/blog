@@ -7,6 +7,7 @@ See lssues
 - [依赖收集](https://github.com/chengtsui/blog/issues/4)
 - [渲染视图更新](https://github.com/chengtsui/blog/issues/5)
 - [全局api](https://github.com/chengtsui/blog/issues/6)
+- [dom-diff](https://github.com/chengtsui/blog/issues/7)
 
 
 关于Me
