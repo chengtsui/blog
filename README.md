@@ -3,9 +3,10 @@
 See lssues
 
 - [阅读前言](https://github.com/chengtsui/blog/issues/1)
-- [响应式部分](https://github.com/chengtsui/blog/issues/3)
-- [依赖收集部分](https://github.com/chengtsui/blog/issues/4)
-- [渲染&&视图更新部分](https://github.com/chengtsui/blog/issues/4)
+- [响应式](https://github.com/chengtsui/blog/issues/3)
+- [依赖收集](https://github.com/chengtsui/blog/issues/4)
+- [渲染视图更新](https://github.com/chengtsui/blog/issues/5)
+- [全局api](https://github.com/chengtsui/blog/issues/6)
 
 
 关于Me
