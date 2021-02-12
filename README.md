@@ -4,6 +4,8 @@ See lssues
 
 - [阅读前言](https://github.com/chengtsui/blog/issues/1)
 - [响应式部分](https://github.com/chengtsui/blog/issues/3)
+- [依赖收集部分](https://github.com/chengtsui/blog/issues/4)
+- [渲染&&视图更新部分](https://github.com/chengtsui/blog/issues/4)
 
 
 关于Me
