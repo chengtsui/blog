@@ -17,7 +17,7 @@ See lssues
 
 Wechat : `Tsui0631`
 
-Emain :  `chengtsui0631@protonmail.com`
+Email :  `chengtsui0631@protonmail.com`
 
 
 
