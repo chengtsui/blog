@@ -3,8 +3,9 @@
 See lssues
 
 - [阅读前言](https://github.com/chengtsui/blog/issues/1)
-- [响应式](https://github.com/chengtsui/blog/issues/3)
-- [依赖收集](https://github.com/chengtsui/blog/issues/4)
+- [数据劫持（响应式上篇--完整）](https://github.com/chengtsui/blog/issues/3)
+- [模板编译（编译初级篇--后续可能会深入展开）](https://github.com/chengtsui/blog/issues/3)
+- [依赖收集（响应式下篇--完整）](https://github.com/chengtsui/blog/issues/4)
 - [渲染视图更新](https://github.com/chengtsui/blog/issues/5)
 - [全局api](https://github.com/chengtsui/blog/issues/6)
 - [dom-diff](https://github.com/chengtsui/blog/issues/7)
@@ -12,7 +13,9 @@ See lssues
 
 关于Me
 
-> 如上述文章存在误区，欢迎各位看官、小伙伴，及时在lssues指正，感谢大家！！
+> 如篇幅文章存在误区，欢迎各位看官、小伙伴，及时在lssues指正，感谢大家！！
+
+> 分享不易，如需引用请注明出处。
 
 
 Wechat : `Tsui0631`
