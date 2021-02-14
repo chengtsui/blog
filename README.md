@@ -20,9 +20,6 @@ See lssues
 
 > *分享不易，如需引用请注明出处。*
 
-
-Wechat : `Tsui0631`
-
 Email :  `chengtsui0631@protonmail.com`
 
 
