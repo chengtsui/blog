@@ -5,7 +5,7 @@ See lssues
 - [阅读前言](https://github.com/chengtsui/blog/issues/1)
 - [数据劫持（响应式上）](https://github.com/chengtsui/blog/issues/3)
 - [模板编译（渲染上）](https://github.com/chengtsui/blog/issues/5)
-- [AST至vdom，vdom至真实 dom (渲染下)](https://github.com/chengtsui/blog/issues/6)
+- [vnode 至真实dom (渲染下)](https://github.com/chengtsui/blog/issues/6)
 - [依赖收集（响应式下）](https://github.com/chengtsui/blog/issues/4)
 - [声明周期总缆](https://github.com/chengtsui/blog/issues/6)
 - [核心api](https://github.com/chengtsui/blog/issues/6)
