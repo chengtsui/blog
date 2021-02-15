@@ -12,6 +12,7 @@ See lssues
 - [dom-diff](https://github.com/chengtsui/blog/issues/7)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/7)
 - [简易版](https://github.com/chengtsui/blog/issues/7)
+- [批量更新策略](https://github.com/chengtsui/blog/issues/7)
 
 
 关于Me
