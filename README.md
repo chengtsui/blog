@@ -6,13 +6,13 @@ See lssues
 - [数据劫持（响应式上）](https://github.com/chengtsui/blog/issues/3)
 - [模板编译（渲染上）](https://github.com/chengtsui/blog/issues/5)
 - [vnode 渲染 (渲染下)](https://github.com/chengtsui/blog/issues/6)
-- [依赖收集（响应式下）](https://github.com/chengtsui/blog/issues/4)
-- [声明周期总缆](https://github.com/chengtsui/blog/issues/6)
+- [依赖收集（响应式下 && watcher上）](https://github.com/chengtsui/blog/issues/4)
 - [批量更新策略 (dom更新)](https://github.com/chengtsui/blog/issues/7)
+- [多形态watcher ($watch && watcher下)](https://github.com/chengtsui/blog/issues/8)
+- [声明周期总缆](https://github.com/chengtsui/blog/issues/6)
 - [核心api](https://github.com/chengtsui/blog/issues/6)
 - [dom-diff](https://github.com/chengtsui/blog/issues/7)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/7)
-- [多形态watcher ($watch)](https://github.com/chengtsui/blog/issues/8)
 
 
 关于Me
