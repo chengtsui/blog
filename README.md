@@ -14,7 +14,6 @@ See lssues
 - [dom-diff](https://github.com/chengtsui/blog/issues/12)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/13)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
-- [简易版](https://github.com/chengtsui/blog/issues/14)
 - [8种组件通信](https://github.com/chengtsui/blog/issues/15)
 - [解剖vuex](https://github.com/chengtsui/blog/issues/16)
 
