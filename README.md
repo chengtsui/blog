@@ -13,6 +13,7 @@ See lssues
 - [核心api](https://github.com/chengtsui/blog/issues/9)
 - [dom-diff](https://github.com/chengtsui/blog/issues/7)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/7)
+- [静态节点标记](https://github.com/chengtsui/blog/issues/7)
 
 
 关于Me
