@@ -17,7 +17,7 @@ See lssues
 - [8种组件通信](https://github.com/chengtsui/blog/issues/15)
 - [解剖vuex](https://github.com/chengtsui/blog/issues/16)
 
-
+- 大部分文章会重新整理！ 目前可读性差
 关于Me
 
 > *如章节存在误区，欢迎各位看官、小伙伴，及时在lssues指正，感谢大家！！*
