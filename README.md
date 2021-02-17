@@ -10,7 +10,7 @@ See lssues
 - [批量更新策略 (dom更新)](https://github.com/chengtsui/blog/issues/7)
 - [多形态watcher ($watch && watcher下)](https://github.com/chengtsui/blog/issues/8)
 - [声明周期总缆](https://github.com/chengtsui/blog/issues/6)
-- [核心api](https://github.com/chengtsui/blog/issues/6)
+- [核心api](https://github.com/chengtsui/blog/issues/9)
 - [dom-diff](https://github.com/chengtsui/blog/issues/7)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/7)
 
