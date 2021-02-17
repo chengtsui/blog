@@ -12,8 +12,9 @@ See lssues
 - [声明周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
 - [dom-diff](https://github.com/chengtsui/blog/issues/12)
-- [主干流程总结](https://github.com/chengtsui/blog/issues/7)
+- [主干流程总结](https://github.com/chengtsui/blog/issues/13)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
+- [简易版](https://github.com/chengtsui/blog/issues/14)
 
 
 关于Me
