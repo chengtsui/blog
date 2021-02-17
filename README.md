@@ -15,6 +15,7 @@ See lssues
 - [主干流程总结](https://github.com/chengtsui/blog/issues/13)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
 - [简易版](https://github.com/chengtsui/blog/issues/14)
+- [8种组件通信](https://github.com/chengtsui/blog/issues/15)
 
 
 关于Me
