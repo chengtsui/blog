@@ -8,7 +8,7 @@ See lssues
 - [vnode 渲染 (渲染下)](https://github.com/chengtsui/blog/issues/6)
 - [依赖收集（响应式下）](https://github.com/chengtsui/blog/issues/4)
 - [声明周期总缆](https://github.com/chengtsui/blog/issues/6)
-- [批量更新策略](https://github.com/chengtsui/blog/issues/7)
+- [批量更新策略 (dom更新)](https://github.com/chengtsui/blog/issues/7)
 - [核心api](https://github.com/chengtsui/blog/issues/6)
 - [dom-diff](https://github.com/chengtsui/blog/issues/7)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/7)
