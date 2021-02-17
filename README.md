@@ -12,7 +12,7 @@ See lssues
 - [核心api](https://github.com/chengtsui/blog/issues/6)
 - [dom-diff](https://github.com/chengtsui/blog/issues/7)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/7)
-- [简易版](https://github.com/chengtsui/blog/issues/7)
+- [多形态watcher ($watch)](https://github.com/chengtsui/blog/issues/8)
 
 
 关于Me
