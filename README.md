@@ -16,7 +16,7 @@ See lssues
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
 - [组件通信](https://github.com/chengtsui/blog/issues/15)
 - [解剖vuex](https://github.com/chengtsui/blog/issues/16)
-- 大部分文章会重新整理！ 目前可读性差，3月初开更
+- 大部分文章会重新整理！ 目前可读性差，目前断更，3月初开更.
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 
 关于Me
