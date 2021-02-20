@@ -11,7 +11,7 @@ See lssues
 - [多形态watcher (用户watcher)](https://github.com/chengtsui/blog/issues/8)
 - [生命周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
-- [dom-diff](https://github.com/chengtsui/blog/issues/12)
+- [dom-diff （渲染优化上）](https://github.com/chengtsui/blog/issues/12)
 - [主干流程总结](https://github.com/chengtsui/blog/issues/13)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
 - [组件通信](https://github.com/chengtsui/blog/issues/15)
