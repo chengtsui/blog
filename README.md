@@ -5,7 +5,7 @@ See lssues
 - [阅读前言](https://github.com/chengtsui/blog/issues/1)
 - [数据劫持（响应式上）](https://github.com/chengtsui/blog/issues/3)
 - [模板编译（渲染上）](https://github.com/chengtsui/blog/issues/5)
-- [vnode渲染 (渲染下)](https://github.com/chengtsui/blog/issues/6)
+- [vdom渲染 (渲染下)](https://github.com/chengtsui/blog/issues/6)
 - [依赖收集（响应式下）](https://github.com/chengtsui/blog/issues/4)
 - [批量更新策略 (视图更新)](https://github.com/chengtsui/blog/issues/7)
 - [多形态watcher (用户watcher)](https://github.com/chengtsui/blog/issues/8)
