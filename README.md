@@ -12,9 +12,7 @@ See lssues
 - [生命周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
 - [dom-diff （渲染优化上）](https://github.com/chengtsui/blog/issues/12)
-- [主干流程总结](https://github.com/chengtsui/blog/issues/13)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
-- [组件通信](https://github.com/chengtsui/blog/issues/15)
 - [解剖vuex](https://github.com/chengtsui/blog/issues/16)
 - 大部分文章会重新整理！ 目前可读性差，目前断更，3月初开更.
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
