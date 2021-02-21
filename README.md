@@ -11,7 +11,7 @@ See lssues
 - [多形态watcher (用户watcher)](https://github.com/chengtsui/blog/issues/8)
 - [生命周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
-- [dom-diff （渲染优化上）](https://github.com/chengtsui/blog/issues/12)
+- [dom-diff （正在更..）](https://github.com/chengtsui/blog/issues/12)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
 - [解剖vuex](https://github.com/chengtsui/blog/issues/16)
 - 大部分文章会重新整理！ 目前可读性差，目前断更，3月初开更.
