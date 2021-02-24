@@ -12,8 +12,8 @@ See lssues
 - [生命周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
 - [dom-diff(后补)](https://github.com/chengtsui/blog/issues/12)
-- [---](https://github.com/chengtsui/blog/issues/11)
 - [watcher终篇](https://github.com/chengtsui/blog/issues/16)
+- [vuex剖析](https://github.com/chengtsui/blog/issues/11)
 - 大部分文章会重新整理！ 目前可读性差，目前断更，3月初开更.
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 
