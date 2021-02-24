@@ -11,7 +11,7 @@ See lssues
 - [watcher中篇($watch)](https://github.com/chengtsui/blog/issues/8)
 - [生命周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
-- [dom-diff （后补）](https://github.com/chengtsui/blog/issues/12)
+- [dom-diff(后补)](https://github.com/chengtsui/blog/issues/12)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
 - [watcher终篇](https://github.com/chengtsui/blog/issues/16)
 - 大部分文章会重新整理！ 目前可读性差，目前断更，3月初开更.
@@ -19,9 +19,8 @@ See lssues
 
 关于Me
 
-> *你们觉得怎样书写博客会更通俗易懂呢？* *我的文章是否存在误区？* *还有哪些需要我去补充呢？* 我急切得到你们的帮助！！！
 
-> *如章节存在误区，欢迎各位看官、小伙伴，及时在lssues指正，感谢大家！！*
+> *如篇幅存在误区，欢迎各位看官、小伙伴，及时在lssues指正，感谢大家！！*
 
 > *分享不易，如需引用请注明出处。*
 
