@@ -8,12 +8,12 @@ See lssues
 - [vdom渲染 (渲染下)](https://github.com/chengtsui/blog/issues/6)
 - [依赖收集（响应式下）](https://github.com/chengtsui/blog/issues/4)
 - [批量更新策略 (视图更新)](https://github.com/chengtsui/blog/issues/7)
-- [多形态watcher (用户watcher)](https://github.com/chengtsui/blog/issues/8)
+- [watcher中篇(用户watcher)](https://github.com/chengtsui/blog/issues/8)
 - [生命周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
 - [dom-diff （后补）](https://github.com/chengtsui/blog/issues/12)
 - [静态节点标记](https://github.com/chengtsui/blog/issues/11)
-- [解剖vuex](https://github.com/chengtsui/blog/issues/16)
+- [watcher终篇](https://github.com/chengtsui/blog/issues/16)
 - 大部分文章会重新整理！ 目前可读性差，目前断更，3月初开更.
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 
