@@ -3,12 +3,12 @@
 See lssues
 
 - [阅读前言](https://github.com/chengtsui/blog/issues/1)
-- [数据劫持（响应式上）](https://github.com/chengtsui/blog/issues/3)
+- [数据劫持（响应上）](https://github.com/chengtsui/blog/issues/3)
 - [模板编译（渲染上）](https://github.com/chengtsui/blog/issues/5)
 - [vdom渲染 (渲染下)](https://github.com/chengtsui/blog/issues/6)
-- [依赖收集（响应式下）](https://github.com/chengtsui/blog/issues/4)
+- [依赖收集（响应下）](https://github.com/chengtsui/blog/issues/4)
 - [批量更新策略 (视图更新)](https://github.com/chengtsui/blog/issues/7)
-- [watcher中篇(用户watcher)](https://github.com/chengtsui/blog/issues/8)
+- [watcher中篇($watch)](https://github.com/chengtsui/blog/issues/8)
 - [生命周期总缆](https://github.com/chengtsui/blog/issues/10)
 - [核心api](https://github.com/chengtsui/blog/issues/9)
 - [dom-diff （后补）](https://github.com/chengtsui/blog/issues/12)
