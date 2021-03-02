@@ -5,7 +5,7 @@ See lssues
 - [数据结构&&算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 - webGL
-- Wasm
+- wasm
 - [sveltejs](https://github.com/chengtsui/blog/issues/21)
 -  alpinejs
 
