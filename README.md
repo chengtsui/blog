@@ -1,8 +1,8 @@
 ### Years of writing 😘
 
 See lssues
-- [vue v2.6剖析](https://github.com/chengtsui/blog/issues/22)
-- [vuex v3.4剖析](https://github.com/chengtsui/blog/issues/11)
+- [vue@v2.6剖析](https://github.com/chengtsui/blog/issues/22)
+- [vuex@v3.4剖析](https://github.com/chengtsui/blog/issues/11)
 - [数据结构&&算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 - webGL
