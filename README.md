@@ -1,7 +1,7 @@
 ### Years of writing 😘
 
 See lssues
-- [vue内部剖析v2.6](https://github.com/chengtsui/blog/issues/22)
+- [vue 内部剖析v2.6](https://github.com/chengtsui/blog/issues/22)
 - [vuex内部剖析v3.4](https://github.com/chengtsui/blog/issues/11)
 - [数据结构&&算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
