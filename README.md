@@ -5,7 +5,7 @@ See lssues
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
-- [jQuery v1.11](https://github.com/chengtsui/blog/issues/24)
+- [jquery v1.11](https://github.com/chengtsui/blog/issues/24)
 - [Javascript 模式 | 刘新（译）（阅读总结）](https://github.com/chengtsui/blog/issues/25)
 - [canvas](https://github.com/chengtsui/blog/issues/26)
 - webgL
