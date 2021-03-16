@@ -8,6 +8,7 @@ See lssues
 - [jquery v1.11](https://github.com/chengtsui/blog/issues/24)
 - [Javascript 模式 | 刘新（译）（阅读总结）](https://github.com/chengtsui/blog/issues/25)
 - [canvas](https://github.com/chengtsui/blog/issues/26)
+- [设计模式汇总](https://github.com/chengtsui/blog/issues/27)
 - webgL
 - webRTC(参考)
 - 编译原理
