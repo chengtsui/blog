@@ -10,6 +10,8 @@ See lssues
 - [canvas](https://github.com/chengtsui/blog/issues/26)
 - [设计模式汇总](https://github.com/chengtsui/blog/issues/27)
 - webgL
+- 编程范式 （设计模式前置内容）
+- UML（设计模式前置内容）
 - webRTC(参考)
 - 编译原理
 - 网络模型
