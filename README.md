@@ -6,7 +6,9 @@ See lssues
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
 - [7层网络模型 （草稿）](https://github.com/chengtsui/blog/issues/31)
 - [node.js （草稿）](https://github.com/chengtsui/blog/issues/32)
-- [java](https://github.com/chengtsui/blog/issues/28)
+- java 系列
+- Go 系列
+- docker
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 - [jquery v1.11](https://github.com/chengtsui/blog/issues/24)
@@ -22,6 +24,7 @@ See lssues
 - webRTC(参考)
 - 编译原理
 - wasm
+- graphQL
 - [sveltejs](https://github.com/chengtsui/blog/issues/21)
 -  alpinejs
 
