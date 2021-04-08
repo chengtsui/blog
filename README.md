@@ -3,6 +3,7 @@
 See lssues
 - [vue  &nbsp; v2.6](https://github.com/chengtsui/blog/issues/22)
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
+- [java](https://github.com/chengtsui/blog/issues/28)
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 - [jquery v1.11](https://github.com/chengtsui/blog/issues/24)
@@ -16,7 +17,6 @@ See lssues
 - 编译原理
 - 网络模型
 - wasm
-- [java](https://github.com/chengtsui/blog/issues/28)
 - [sveltejs](https://github.com/chengtsui/blog/issues/21)
 -  alpinejs
 
