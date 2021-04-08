@@ -14,7 +14,8 @@ See lssues
 - [canvas](https://github.com/chengtsui/blog/issues/26)
 - [设计模式汇总](https://github.com/chengtsui/blog/issues/27)
 - [自动化测试](https://github.com/chengtsui/blog/issues/30)
-- [ts](https://github.com/chengtsui/blog/issues/33)
+- [typescript 案例](https://github.com/chengtsui/blog/issues/33)
+- 函数式编程
 - webgL
 - 编程范式 （设计模式前置内容）
 - UML（设计模式前置内容）
