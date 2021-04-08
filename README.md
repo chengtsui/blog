@@ -4,6 +4,7 @@ See lssues
 - [vue  &nbsp; v2.6](https://github.com/chengtsui/blog/issues/22)
 - [css 总结](https://github.com/chengtsui/blog/issues/28)
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
+- [7层网络模型](https://github.com/chengtsui/blog/issues/31)
 - [java](https://github.com/chengtsui/blog/issues/28)
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
@@ -17,7 +18,6 @@ See lssues
 - UML（设计模式前置内容）
 - webRTC(参考)
 - 编译原理
-- 网络模型
 - wasm
 - [sveltejs](https://github.com/chengtsui/blog/issues/21)
 -  alpinejs
