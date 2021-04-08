@@ -2,10 +2,10 @@
 
 See lssues
 - [vue  &nbsp; v2.6](https://github.com/chengtsui/blog/issues/22)
-- [css 总结](https://github.com/chengtsui/blog/issues/28)
+- [css 总结 （草稿）](https://github.com/chengtsui/blog/issues/28)
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
-- [7层网络模型](https://github.com/chengtsui/blog/issues/31)
-- [node.js](https://github.com/chengtsui/blog/issues/32)
+- [7层网络模型 （草稿）](https://github.com/chengtsui/blog/issues/31)
+- [node.js （草稿）](https://github.com/chengtsui/blog/issues/32)
 - [java](https://github.com/chengtsui/blog/issues/28)
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
@@ -13,7 +13,7 @@ See lssues
 - [Javascript 模式（刘新（译）| 阅读总结）](https://github.com/chengtsui/blog/issues/25)
 - [canvas](https://github.com/chengtsui/blog/issues/26)
 - [设计模式汇总](https://github.com/chengtsui/blog/issues/27)
-- [自动化测试](https://github.com/chengtsui/blog/issues/30)
+- [自动化测试 （草稿）](https://github.com/chengtsui/blog/issues/30)
 - [typescript 案例](https://github.com/chengtsui/blog/issues/33)
 - 函数式编程
 - webgL
