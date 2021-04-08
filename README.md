@@ -11,6 +11,7 @@ See lssues
 - [Javascript 模式（刘新（译）| 阅读总结）](https://github.com/chengtsui/blog/issues/25)
 - [canvas](https://github.com/chengtsui/blog/issues/26)
 - [设计模式汇总](https://github.com/chengtsui/blog/issues/27)
+- [自动化测试](https://github.com/chengtsui/blog/issues/30)
 - webgL
 - 编程范式 （设计模式前置内容）
 - UML（设计模式前置内容）
