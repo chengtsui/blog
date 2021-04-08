@@ -2,6 +2,7 @@
 
 See lssues
 - [vue  &nbsp; v2.6](https://github.com/chengtsui/blog/issues/22)
+- [css 总结](https://github.com/chengtsui/blog/issues/28)
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
 - [java](https://github.com/chengtsui/blog/issues/28)
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
