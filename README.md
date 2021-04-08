@@ -5,7 +5,7 @@ See lssues
 - [css 总结](https://github.com/chengtsui/blog/issues/28)
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
 - [7层网络模型](https://github.com/chengtsui/blog/issues/31)
-- [node.js](https://github.com/chengtsui/blog/issues/31)
+- [node.js](https://github.com/chengtsui/blog/issues/32)
 - [java](https://github.com/chengtsui/blog/issues/28)
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
