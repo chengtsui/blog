@@ -10,6 +10,8 @@ See lssues
 - Go 系列
 - 微前端 | 
 - docker
+- 持续化集成
+- 敏捷工作流
 - [数据结构 | 算法](https://github.com/chengtsui/blog/issues/23)
 - [JS系列（后续）](https://github.com/chengtsui/blog/issues/18)
 - [jquery v1.11](https://github.com/chengtsui/blog/issues/24)
