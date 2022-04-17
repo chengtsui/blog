@@ -8,7 +8,7 @@ See lssues
 - [node.js （草稿）](https://github.com/chengtsui/blog/issues/32)
 - java 系列
 - Go 系列
-- 微前端 | 
+- 微前端 
 - docker
 - 持续化集成
 - 敏捷工作流
