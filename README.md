@@ -1,7 +1,7 @@
 ### Years of writing 😘
 
 See lssues
-- [vue  &nbsp; v2.6](https://github.com/chengtsui/blog/issues/22)
+- [Vue 源码剖析 &nbsp; v2.6](https://github.com/chengtsui/blog/issues/22)
 - [css 总结 （草稿）](https://github.com/chengtsui/blog/issues/28)
 - [vuex v3.4](https://github.com/chengtsui/blog/issues/11)
 - [7层网络模型 （草稿）](https://github.com/chengtsui/blog/issues/31)
