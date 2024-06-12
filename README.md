@@ -38,7 +38,7 @@ See lssues
 
 > *分享不易，如需引用请注明出处。*
 
-Email :  `chengtsui0631@protonmail.com` `1450823575@qq.com`
+Email :  `1450823575@qq.com`  `chengtsui0631@protonmail.com`
 
 
 
